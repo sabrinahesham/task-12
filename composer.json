@@ -1,0 +1,12 @@
+{ "autoload":{
+     "psr-4":
+       {"APP\\": "app/"},
+
+     "files":
+       [ "core/config.php" ,
+         "core/helpers.php"
+    ]
+       
+} 
+    
+}
